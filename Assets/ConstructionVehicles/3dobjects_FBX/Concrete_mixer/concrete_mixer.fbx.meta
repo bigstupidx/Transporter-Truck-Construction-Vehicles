@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 6c12d0c392883744788acb652e91f2d0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arm1
+    100002: arm2
+    100004: arm_drehgelenk
+    100006: arm_kopf
+    100008: betonfuellung
+    100010: //RootNode
+    100012: body_main
+    100014: Camera
+    100016: reifen_hinten1_links
+    100018: reifen_hinten1_rechts
+    100020: reifen_hinten2_links
+    100022: reifen_hinten2_rechts
+    100024: reifen_vorne_links
+    100026: reifen_vorne_rechts
+    100028: trommel
+    400000: arm1
+    400002: arm2
+    400004: arm_drehgelenk
+    400006: arm_kopf
+    400008: betonfuellung
+    400010: //RootNode
+    400012: body_main
+    400014: Camera
+    400016: reifen_hinten1_links
+    400018: reifen_hinten1_rechts
+    400020: reifen_hinten2_links
+    400022: reifen_hinten2_rechts
+    400024: reifen_vorne_links
+    400026: reifen_vorne_rechts
+    400028: trommel
+    2300000: arm1
+    2300002: arm2
+    2300004: arm_drehgelenk
+    2300006: arm_kopf
+    2300008: betonfuellung
+    2300010: body_main
+    2300012: reifen_hinten1_links
+    2300014: reifen_hinten1_rechts
+    2300016: reifen_hinten2_links
+    2300018: reifen_hinten2_rechts
+    2300020: reifen_vorne_links
+    2300022: reifen_vorne_rechts
+    2300024: trommel
+    3300000: arm1
+    3300002: arm2
+    3300004: arm_drehgelenk
+    3300006: arm_kopf
+    3300008: betonfuellung
+    3300010: body_main
+    3300012: reifen_hinten1_links
+    3300014: reifen_hinten1_rechts
+    3300016: reifen_hinten2_links
+    3300018: reifen_hinten2_rechts
+    3300020: reifen_vorne_links
+    3300022: reifen_vorne_rechts
+    3300024: trommel
+    4300000: reifen_vorne_rechts
+    4300002: betonfuellung
+    4300004: reifen_vorne_links
+    4300006: arm1
+    4300008: arm2
+    4300010: trommel
+    4300012: body_main
+    4300014: arm_kopf
+    4300016: arm_drehgelenk
+    4300018: reifen_hinten1_links
+    4300020: reifen_hinten1_rechts
+    4300022: reifen_hinten2_links
+    4300024: reifen_hinten2_rechts
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 29
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

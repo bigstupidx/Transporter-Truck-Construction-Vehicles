@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: df399ec510585fd45a2ca894465f6afe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: hubzylinder_part1
+    100006: hubzylinder_part2
+    100008: oberwagen_main
+    100010: teleskop_arm1
+    100012: teleskop_arm2
+    100014: teleskop_arm3
+    100016: teleskop_arm4
+    400000: Camera
+    400002: //RootNode
+    400004: hubzylinder_part1
+    400006: hubzylinder_part2
+    400008: oberwagen_main
+    400010: teleskop_arm1
+    400012: teleskop_arm2
+    400014: teleskop_arm3
+    400016: teleskop_arm4
+    2300000: hubzylinder_part1
+    2300002: hubzylinder_part2
+    2300004: oberwagen_main
+    2300006: teleskop_arm1
+    2300008: teleskop_arm2
+    2300010: teleskop_arm3
+    2300012: teleskop_arm4
+    3300000: hubzylinder_part1
+    3300002: hubzylinder_part2
+    3300004: oberwagen_main
+    3300006: teleskop_arm1
+    3300008: teleskop_arm2
+    3300010: teleskop_arm3
+    3300012: teleskop_arm4
+    4300000: oberwagen_main
+    4300002: teleskop_arm1
+    4300004: teleskop_arm2
+    4300006: teleskop_arm3
+    4300008: teleskop_arm4
+    4300010: hubzylinder_part1
+    4300012: hubzylinder_part2
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 26
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
